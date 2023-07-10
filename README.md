@@ -1,10 +1,11 @@
 # AR6-Figures
-AR6 IPCC figure data at CEDA
+AR6 IPCC figure data at CEDA <br>
+The following tables display the IPCC AR6 WGI figures that have associated data archived at CEDA.
 
-**Final Data**
+## Final Data
 
 | Figure | Chapter 2 | Chapter 3 | Chapter 4 | Chapter 5 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 9 | Chapter 10 | Chapter 11 | Chapter 12 | Technical Summary | Atlas |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1** |  |  |  |  |  |  |  |  |  |  |  | [ TS.1](https://dx.doi.org/10.5285/3d16a09c21c9440288608276b615c11f) |  |
 | **2** |  | [ 3.2](https://dx.doi.org/10.5285/4394898334094551bfb29fb37d2f054c) |  |  |  |  |  |  |  |  |  |  | [ Atlas.2](https://catalogue.ceda.ac.uk/uuid/789ad030299342ea99534edfb62450d9) |
 | **3** |  | [ 3.3](http://dx.doi.org/10.5285/03cc44f98b0e4a4b97df37662e62be79) |  |  | [ 6.3](https://dx.doi.org/10.5285/d059d2e28b6d4a7d88a6fe2d0d25ba93) |  |  | [ 9.3](https://dx.doi.org/10.5285/ef7b615816cb432088d02c97836ca9fa) |  | [ 11.3](https://dx.doi.org/10.5285/592748a417ab4efca4eb98e22c9dbec4) |  |  |  |
@@ -49,11 +50,28 @@ AR6 IPCC figure data at CEDA
 | **42** |  | [ 3.42](http://dx.doi.org/10.5285/e3d21f98cc764d1185b0d6e662532831) | [ 4.42](https://dx.doi.org/10.5285/e5e7afe5355a439e8d63be47ee7467c8) |  |  |  |  |  |  |  |  |  |  |
 | **43** |  | [ 3.43](http://dx.doi.org/10.5285/80c10f8aeb7049778c5a15ede4917128) |  |  |  |  |  |  |  |  |  |  |  |
 | **44** |  | [ 3.44](http://dx.doi.org/10.5285/d35ac1955c264deea9699d08dbc568f2) |  |  |  |  |  |  |  |  |  |  |  |
+| **29** |  | [ 3.29](http://dx.doi.org/10.5285/a8915aca7806434984baab86835a1b18) |  |  |  |  |  | [ 9.29](https://dx.doi.org/10.5285/ff28d78693f645aa820266d472a6e1b3) | [ 10.29](https://dx.doi.org/10.5285/ff28d78693f645aa820266d472a6e1b3) |  |  |  | [ Atlas.29](https://catalogue.ceda.ac.uk/uuid/b57ed5886f0a4041b76f2281ba503bed) |
+| **30** |  | [ 3.30](http://dx.doi.org/10.5285/a3902bb4d1b543b39cc85380df8d1586) |  |  |  |  |  | [ 9.30](https://dx.doi.org/10.5285/9374ee722fab464fb3ee8ea659b56546) | [ 10.30](https://dx.doi.org/10.5285/9374ee722fab464fb3ee8ea659b56546) |  |  |  |  |
+| **31** |  | [ 3.31](http://dx.doi.org/10.5285/a4cbbffe1bd44c7ba3e8608ee9c54547) | [ 4.31](https://dx.doi.org/10.5285/8fa708d0474d4a3caa5c9f645a89d282) |  |  |  |  |  |  |  |  |  |  |
+| **32** |  | [ 3.32](http://dx.doi.org/10.5285/25d4a6597d954721bc4a616d094b0cda) | [ 4.32](https://dx.doi.org/10.5285/0192ae3037794e0eb93b022c5140f399) |  |  |  |  | [ 9.32](https://dx.doi.org/10.5285/6b33327d0d0d4bcca872b431279086db) | [ 10.32](https://dx.doi.org/10.5285/6b33327d0d0d4bcca872b431279086db) |  |  |  |  |
+| **33** |  | [ 3.33](http://dx.doi.org/10.5285/4fe1afacdc524c118989c16a1bccd51e) |  | [ 5.33](https://dx.doi.org/10.5285/85409987ce6a4976b0845b512baa2843) |  |  |  |  |  |  |  |  |  |
+| **34** |  | [ 3.34](http://dx.doi.org/10.5285/678ee967fe114a34a6d1f7d50e4aa7ee) |  |  |  |  |  |  |  |  |  |  |  |
+| **35** |  | [ 3.35](https://dx.doi.org/10.5285/ef5ca18bcaf441d9993f181a058016ba) |  |  |  |  |  |  |  |  |  |  |  |
+| **36** | [ 2.36](https://dx.doi.org/10.5285/8dcf91b3ebb44458b67124896b131ac5) | [ 3.36](http://dx.doi.org/10.5285/8af00e7bba784c1cbf4c16fef984aeb6) |  |  |  |  |  |  |  |  |  |  |  |
+| **37** | [ 2.37](https://dx.doi.org/10.5285/691c673c0d204911893659e10d4ddcba) | [ 3.37](http://dx.doi.org/10.5285/babcd0de678e4d10aef395f1a265da03) |  |  |  |  |  |  |  |  |  |  |  |
+| **38** | [ 2.38](https://dx.doi.org/10.5285/7a7630213de543a9a19c7015dc198970) | [ 3.38](http://dx.doi.org/10.5285/758419765d0f4926aa70002ec6c856b0) |  |  |  |  |  |  |  |  |  |  |  |
+| **39** |  | [ 3.39](http://dx.doi.org/10.5285/02006a22c33b42039d96be53d332930a) |  |  |  |  |  |  |  |  |  |  |  |
+| **40** |  | [ 3.40](http://dx.doi.org/10.5285/12f0d7db5ed747d2940210e52211ed6a) |  |  |  |  |  |  |  |  |  |  |  |
+| **41** |  | [ 3.41](http://dx.doi.org/10.5285/43b0c376ad184543a1bbceeceec0e85d) | [ 4.41](https://dx.doi.org/10.5285/e397fe6f20024295b095e2e3ca1e9f04) |  |  |  |  |  |  |  |  |  |  |
+| **42** |  | [ 3.42](http://dx.doi.org/10.5285/e3d21f98cc764d1185b0d6e662532831) | [ 4.42](https://dx.doi.org/10.5285/e5e7afe5355a439e8d63be47ee7467c8) |  |  |  |  |  |  |  |  |  |  |
+| **43** |  | [ 3.43](http://dx.doi.org/10.5285/80c10f8aeb7049778c5a15ede4917128) |  |  |  |  |  |  |  |  |  |  |  |
+| **44** |  | [ 3.44](http://dx.doi.org/10.5285/d35ac1955c264deea9699d08dbc568f2) |  |  |  |  |  |  |  |  |  |  |  | 5/8ec2d4b94f8e4756ad31858ff8256464) |  |  |  |  |  |  |
 
-**Intermediate Data**
+
+## Intermediate Data
 
 | Figure | Chapter 2 | Chapter 3 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 12 | Technical Summary |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+ | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | **1** |  |  |  |  |  |  |  |
 | **2** |  |  |  |  |  |  |  |
 | **3** |  |  |  | [ 7.3](https://dx.doi.org/10.5285/6842c53c516746ea860e11512dc133c2) |  |  |  |
@@ -83,3 +101,5 @@ AR6 IPCC figure data at CEDA
 | **27** | [ 2.27](https://dx.doi.org/10.5285/78ad6999f2d743d2a7db16757c27b549) | [ 3.27](http://dx.doi.org/10.5285/38bac9051d064d4da183fff2361f5de8) |  |  |  |  |  |
 | **28** |  | [ 3.28](http://dx.doi.org/10.5285/f7c3f3cbf65447b9a43207dcc30219d9) |  |  |  |  |  |
 | **29** | [ 2.29](https://dx.doi.org/10.5285/81f53dc4487b4260b92d4dd8000a8b09) |  |  |  |  |  |  |
+
+## Box, CCBOX, FAQs, SM figures
