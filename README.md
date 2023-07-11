@@ -1,6 +1,6 @@
 # AR6-Figures
 AR6 IPCC figure data at CEDA <br>
-The following tables display the IPCC AR6 WGI figures that have associated finla and intermediate data archived at CEDA.
+The following tables display the IPCC AR6 WGI figures that have associated final and intermediate data archived at CEDA.
 
 ## Final Data
 
