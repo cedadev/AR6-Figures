@@ -72,8 +72,6 @@ The following tables display the IPCC AR6 WGI figures that have associated final
 
 | Figure | Chapter 2 | Chapter 3 | Chapter 6 | Chapter 7 | Chapter 8 | Chapter 12 | Technical Summary |
  | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| **1** |  |  |  |  |  |  |  |
-| **2** |  |  |  |  |  |  |  |
 | **3** |  |  |  | [ 7.3](https://dx.doi.org/10.5285/6842c53c516746ea860e11512dc133c2) |  |  |  |
 | **4** |  |  |  | [ 7.4](https://dx.doi.org/10.5285/d32090ff8fe342788191683eb4416411) |  |  |  |
 | **5** |  |  |  | [ 7.5](https://dx.doi.org/10.5285/7b3d379fc1f040978df4806c6775a0df) |  | [ 12.5](https://dx.doi.org/10.5285/91c218d3a80f4c43ac665d0bdf0ed5e7) |  |
@@ -88,16 +86,11 @@ The following tables display the IPCC AR6 WGI figures that have associated final
 | **14** |  |  | [ 6.14](https://dx.doi.org/10.5285/39b789cb48694497941cd0c17f99bd69) |  |  |  |  |
 | **15** | [ 2.15](https://dx.doi.org/10.5285/8ec2d4b94f8e4756ad31858ff8256464) |  |  |  |  |  |  |
 | **16** |  |  |  |  | [ 8.16](https://dx.doi.org/10.5285/92dc7ae089d84a43a28099ae49633383) |  |  |
-| **17** |  |  |  |  |  |  |  |
 | **18** |  |  |  | [ 7.18](https://dx.doi.org/10.5285/399a75d2538a471cb529d1f0fa01410e) |  |  |  |
-| **19** |  |  |  |  |  |  |  |
-| **20** |  |  |  |  |  |  |  |
-| **21** |  |  |  |  |  |  |  |
 | **22** |  |  | [ 6.22](https://dx.doi.org/10.5285/0ca27ce794324ec086d6a6c60d5567ac) | [ 7.22](https://dx.doi.org/10.5285/f94821849dfb4ee2bd1a367a81a6b6f7) |  |  |  |
 | **23** | [ 2.23](https://dx.doi.org/10.5285/b618062ee96a4d36b6010271e099a5c4) |  |  |  |  |  |  |
 | **24** |  |  | [ 6.24](https://dx.doi.org/10.5285/0ca27ce794324ec086d6a6c60d5567ac) |  |  |  | [ TS.24](https://dx.doi.org/10.5285/38401030f262490094dc9c8931c851e4) |
 | **25** | [ 2.25](https://dx.doi.org/10.5285/528c3543bc394134916aa792c4a2e700) |  |  |  |  |  |  |
-| **26** |  |  |  |  |  |  |  |
 | **27** | [ 2.27](https://dx.doi.org/10.5285/78ad6999f2d743d2a7db16757c27b549) | [ 3.27](http://dx.doi.org/10.5285/38bac9051d064d4da183fff2361f5de8) |  |  |  |  |  |
 | **28** |  | [ 3.28](http://dx.doi.org/10.5285/f7c3f3cbf65447b9a43207dcc30219d9) |  |  |  |  |  |
 | **29** | [ 2.29](https://dx.doi.org/10.5285/81f53dc4487b4260b92d4dd8000a8b09) |  |  |  |  |  |  |
